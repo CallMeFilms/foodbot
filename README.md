@@ -1,3 +1,1 @@
-# Food
-Food Discord Bot that I made for the United Federations of Food Discord server (https://discord.gg/j29xkrm)
-"# FoodBot" 
+UFF's FoodBot - Discord bot designed for moderation and gaming
